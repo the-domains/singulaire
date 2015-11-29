@@ -1,0 +1,28 @@
+name: Singulaire
+favicon: null
+layout_spectrum: 0.564347030594945
+typography_spectrum: 0.8487002905458212
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.03241900377906859
+  lightness: 0.7614490517880768
+  saturation: 0.9178470261394978
+  rhythmicContrast: 0.2291439266409725
+purpose: []
