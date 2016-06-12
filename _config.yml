@@ -2,7 +2,9 @@ name: Singulaire
 favicon: null
 layout_spectrum: 0.564347030594945
 typography_spectrum: 0.46971
-title: 'Welcome to Singulaire, a place to discuss the evolution of medical and information technological evolutions'
+title: >-
+  Welcome to Singulaire, a place to discuss the evolution of medical and
+  information technological evolutions
 cta:
   domain: null
   bucket: null
@@ -17,11 +19,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#070302'
-    - '#f6f5f3'
-    - '#81512b'
-    - '#d58256'
-    - '#b5a492'
+    - '#ffffff'
+    - '#0f1115'
+    - '#138cf8'
+    - '#ba9aa1'
+    - '#49bcfb'
   brandStrength: 0.03241900377906859
   lightness: 0.7614490517880768
   saturation: 0.9178470261394978
