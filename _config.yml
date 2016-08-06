@@ -29,6 +29,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: About me...
+    url: 'https://fr.linkedin.com/in/fabrice-angelini-9560312b'
+    type: external
 favicon: null
 title: >-
   Welcome to Singulaire, a place to discuss the evolution of medical and
