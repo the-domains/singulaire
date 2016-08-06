@@ -19,6 +19,11 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  email: fan.angelini@gmail.com
+  name: Fabrice Angelini
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f9c3e4a-cc02-4c10-ab0e-27ba48d4e886.jpg
 name: Singulaire
 cta:
   domain: null
