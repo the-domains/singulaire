@@ -1,22 +1,4 @@
-name: Singulaire
-favicon: null
-layout_spectrum: 0.564347030594945
 typography_spectrum: 0.46971
-title: >-
-  Welcome to Singulaire, a place to discuss the evolution of medical and
-  information technological evolutions
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -28,4 +10,23 @@ color:
   lightness: 0.7614490517880768
   saturation: 0.9178470261394978
   rhythmicContrast: 0.2291439266409725
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.564347030594945
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Singulaire
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: >-
+  Welcome to Singulaire, a place to discuss the evolution of medical and
+  information technological evolutions
+description: 'Singulaire: let''s make the best possible future!'
 purpose: []
